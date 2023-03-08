@@ -1,0 +1,19 @@
+{
+  "name": "ts-study",
+  "version": "1.0.0",
+  "description": "- npm install typescript -g - tsc --init 生成配置文件",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.18.0",
+    "rollup-plugin-serve": "^2.0.2",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "typescript": "^4.9.5"
+  }
+}
